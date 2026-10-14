@@ -1,0 +1,13 @@
+{
+  "name": "bijouterie-diamine",
+  "version": "1.0.0",
+  "description": "Catalogue de luxe interactif pour la Bijouterie Diamine",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx browser-sync start --server --files \"*.html, *.css, *.js\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^3.0.3"
+  }
+}
